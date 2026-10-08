@@ -1,0 +1,7 @@
+Analysis,Metric,Value,PValue,Conclusion
+Weekend vs Weekday AOV,Cohen's d,0.082,<0.001,"Statistically significant, very small effect"
+Customer Groups by Orders,Eta squared,0.031,<0.001,"Statistically significant, small effect"
+Correlation: Orders vs Revenue,Spearman correlation,0.8594,<0.001,Strong positive association
+Correlation: Unique Products vs Revenue,Spearman correlation,0.7713,<0.001,Strong positive association
+Logistic Regression: First Order Revenue,Odds Ratio,1.2068,0.0001,Significant positive association
+Logistic Regression: Unique Products,Odds Ratio,1.1096,0.004,Significant positive association
