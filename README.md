@@ -19,7 +19,7 @@
 
 ## Dashboard
 
-![Dashboard](Dashboard.png)
+![Tableau Dashboard](./Dashboard/Dashboard.png)
 
 ## Стек
 Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn, Tableau.
