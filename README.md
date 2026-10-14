@@ -17,5 +17,9 @@
 - Клиенты с 4 и более заказами приносят в среднем £5 875,58.
 - Выручка положительно связана с количеством заказов и уникальных товаров.
 
+## Dashboard
+
+![Dashboard](Dashboard.png)
+
 ## Стек
 Python, pandas, NumPy, SciPy, statsmodels, Matplotlib, Seaborn, Tableau.
